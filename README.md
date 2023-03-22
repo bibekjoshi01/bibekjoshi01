@@ -26,7 +26,7 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
 - 💻 Proficient in various programming languages such as Python, JavaScript, and C.
-- 🌐 Experienced in developing web applications using popular frameworks such as React, Angular, and Django.
+- 🌐 Experienced in developing web applications using popular frameworks such as React, Django and Django REst.
 - 🚀 Familiar with agile methodologies and proficient in using tools like Git, Jira, and Trello.
 - 📈 Interested in data science, machine learning, and artificial intelligence, and exploring these fields to enhance your skills.
 - 💡 Skilled in problem-solving and constantly seeking new challenges to improve your abilities.
