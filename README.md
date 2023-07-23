@@ -10,13 +10,13 @@
 <a href="https://www.linkedin.com/in/bibek-joshi-69458b231/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.facebook.com/futuristic.nepal.5" target="_blank">
+<a href="https://www.facebook.com/bibekjoshi.001" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/19317825/bibek" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/" target="_blank">
+<a href="https://www.youtube.com/@thealienprogrammer" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 </div>
