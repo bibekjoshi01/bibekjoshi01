@@ -53,9 +53,3 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-### 🔥&nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bibekjoshi01&layout=compact&theme=vision-friendly-white)](https://git.io/streak-stats)
-[![Bibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibekjoshi01)](https://github.com/bibekjoshi01/github-readme-stats)
